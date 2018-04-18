@@ -1,0 +1,8 @@
+/usr/mqm/samp/bin/amqsget TO_BCQMKTINFRMN_RSPN  MTSQM0 >> TO_BCQMKTINFRMN_RSPN_1.txt
+/usr/mqm/samp/bin/amqsget TO_BCQMKTINFRMN_RSPN2 MTSQM0 >> TO_BCQMKTINFRMN_RSPN2_1.txt
+/usr/mqm/samp/bin/amqsget TO_RESPSERV_0 MTSQM2 >> TO_RESPSERV_0_1.txt
+/usr/mqm/samp/bin/amqsget TO_API_EH MTSQM0 >> /home/mqm/TO_API_EH_1_msg.txt
+/usr/mqm/samp/bin/amqsget TO_ADAPTORREV_2 MTSQM0 >> /home/mqm/TO_ADAPTORREV_2.txt
+/usr/mqm/samp/bin/amqsget TO_API_FE MTSQM0 >> /home/mqm/TO_API_FE.txt
+/usr/mqm/samp/bin/amqsget TO_SHMSYNC_1 MTSQM0 >> /home/mqm/TO_SHMSYNC_1.txt
+/usr/mqm/samp/bin/amqsget TO_WINDOWSSERVER_1 MTSQM0 >> /home/mqm/TO_WINDOWSSERVER_1.txt
